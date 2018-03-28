@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
+<html>
+<head>
+<style>
+h1 {color:red;}
+p {color:blue;}
+</style>
+</head>
 	<title>Elon Musk</title>
 	<nav>
   		<a href="#Child">Childhood</a> |
@@ -11,6 +18,13 @@
 	<link rel="stylesheet" type="text/css" href="musk.css">
 </head>
 <body>
+<html>
+<head>
+<style>
+h1 {color:red;}
+p {color:blue;}
+</style>
+</head>
 	<h1> ELON MUSK : Entreprenuer Extraordinary </h1>
 	<div class="box">
 	<div class="leftBox"><img id="elon" src="elon.jpg"></div>
@@ -52,7 +66,7 @@
 						<p>In 2001, Musk conceptualized "Mars Oasis"; a project to land a miniature experimental greenhouse on Mars, containing food crops growing on Martian regolith, in an attempt to regain public interest in space exploration.[58][59] In October 2001, Musk travelled to Moscow with Jim Cantrell (an aerospace supplies fixer), and Adeo Ressi (his best friend from college), to buy refurbished Dnepr Intercontinental ballistic missiles (ICBMs) that could send the envisioned payloads into space. The group met with companies such as NPO Lavochkin and Kosmotras; however, according to Cantrell, Musk was seen as a novice and was consequently spat on by one of the Russian chief designers,[60] and the group returned to the United States empty-handed. In February 2002, the group returned to Russia to look for three ICBMs, bringing along Mike Griffin. Griffin had worked for the CIA's venture capital arm, In-Q-Tel, as well as NASA's Jet Propulsion Laboratory, and was just leaving Orbital Sciences, a maker of satellites and spacecraft. The group met again with Kosmotras, and were offered one rocket for US$8 million; however, this was seen by Musk as too expensive; Musk consequently stormed out of the meeting. On the flight back from Moscow, Musk realized that he could start a company that could build the affordable rockets he needed.[60] According to early Tesla and SpaceX investor Steve Jurvetson,[61] Musk calculated that the raw materials for building a rocket actually were only 3 percent of the sales price of a rocket at the time. It was concluded that theoretically, by applying vertical integration and the modular approach from software engineering, SpaceX could cut launch price by a factor of ten and still enjoy a 70-percent gross margin.[62] Ultimately, Musk ended up founding SpaceX with the long-term goal of creating a "true spacefaring civilization".[63]</p>
 						</article></div>
 						</div>
-						<div class="centerBox"><iframe width="640" height="480" src="https://www.youtube.com/embed/wbSwFU6tY1c?autoplay=1">   </iframe> </div>
+						<div class="centerBox"><center><iframe width="640" height="480" src="https://www.youtube.com/embed/wbSwFU6tY1c?autoplay=1">   </iframe></center></div>
 					
 					
 				</section>
@@ -64,7 +78,7 @@
 						<p>Tesla, Inc. (originally Tesla Motors) was incorporated in July 2003 by Martin Eberhard and Marc Tarpenning, who financed the company until the Series A round of funding.[89].Both men played active roles in the company's early development prior to Elon Musk's involvement.[90] Musk led the Series A round of investment in February 2004, joining Tesla's board of directors as its chairman.[91] Musk took an active role within the company and oversaw Roadster product design at a detailed level, but was not deeply involved in day-to-day business operations.[92].Following the financial crisis in 2008,[93] Musk assumed leadership of the company as CEO and product architect, positions he still holds today. Tesla Motors first built an electric sports car, the Tesla Roadster in 2008, with sales of about 2,500 vehicles to 31 countries. Tesla began delivery of its four-door Model S sedan on June 22, 2012. It unveiled its third product, the Model X, aimed at the SUV/minivan market, on February 9, 2012; however, the Model X launch was delayed until September 2015.[94][95][96] In addition to its own cars, Tesla sells electric powertrain systems to Daimler for the Smart EV, Mercedes B-Class Electric Drive and Mercedes A Class, and to Toyota for the RAV4 EV. Musk was able to bring in both companies as long-term investors in Tesla.[97]</p>
 					</article></div>
 					</div>
-					<div class="centerBox"><iframe width="640" height="480" src="https://www.youtube.com/embed/Oj4ruxBTV-k?autoplay=1"></iframe></div>
+					<div class="centerBox"><center><iframe width="640" height="480" src="https://www.youtube.com/embed/Oj4ruxBTV-k?autoplay=1"></iframe></div></center>
 					
 				
 				</section>
@@ -76,7 +90,7 @@
 						<p>On August 12, 2013, Musk unveiled a concept for a high-speed transportation system incorporating reduced-pressure tubes in which pressurized capsules ride on an air cushion driven by linear induction motors and air compressors.[118] The mechanism for releasing the concept was an alpha-design document that, in addition to scoping out the technology, outlined a notional route where such a transport system might be built: between the Greater Los Angeles Area and the San Francisco Bay Area.[119]After earlier envisioning Hyperloop, Musk assigned a dozen engineers from Tesla and SpaceX who worked for nine months, establishing the conceptual foundations and creating the designs for the transportation system.[120][121] An early design for the system was then published in a whitepaper posted to the Tesla and SpaceX blogs.[122][123][124] Musk's proposal, if technologically feasible at the costs he has cited, would make Hyperloop travel cheaper than any other mode of transport for such long distances. The alpha design was proposed to use a partial vacuum to reduce aerodynamic drag, which it is theorized would allow for high-speed travel with relatively low power, with certain other features like air-bearing skis and an inlet compressor to reduce freestream flow. The document of alpha design estimated the total cost of an LA-to-SF Hyperloop system at US$6 billion, but this amount is speculative.[125]</p>
 					</article></div>
 					</div>
-					<div class="centerBox"><iframe width="640" height="480" src="https://www.youtube.com/embed/O_FyOBCVGWE?autoplay=1"></iframe></div>
+					<div class="centerBox"><center><iframe width="640" height="480" src="https://www.youtube.com/embed/O_FyOBCVGWE?autoplay=1"></iframe></center></div>
 					
 					
 				</section>
@@ -88,16 +102,35 @@
 						<p>In December 2015, Musk announced the creation of OpenAI, a not-for-profit artificial intelligence (AI) research company. OpenAI aims to develop artificial general intelligence in a way that is safe and beneficial to humanity.[130]By making AI available to everyone, OpenAI wants to "counteract large corporations who may gain too much power by owning super-intelligence systems devoted to profits, as well as governments which may use AI to gain power and even oppress their citizenry".[131] Musk has stated he wants to counteract the concentration of power.[32] In 2018 Musk left the OpenAI board to avoid "potential future conflict" with his role as CEO of Tesla as Tesla increasingly becomes involved in AI.[132]</p>
 					</article></div>
 					</div>
-					<div class="centerBox"><iframe width="640" height="480" src="https://www.youtube.com/embed/suCPJAJfG7g?autoplay=1"></iframe></div>
+					<div class="centerBox"><center><iframe width="640" height="480" src="https://www.youtube.com/embed/suCPJAJfG7g?autoplay=1"></iframe></center></div>
 				</section>
 			</article>
 		</section>
 		<section>
 			<div class="box">
+<html>
+<head>
+<style>
+h1 {color:red;}
+p {color:blue;}
+</style>
+</head>
 			<article id="Awards">
+<html>
+<head>
+<style>
+h1 {color:red;}
+p {color:blue;}
+</style>
+</head>
 				<h3> Awards and Recognition </h3>
+
+
 			<p>
+
 				<ol>
+
+
 					<li>In 2006, Musk served as a member of the United States National Academy of Sciences Aeronautics and Space Engineering Board.[226]</li>
 					<li>R&D Magazine Innovator of the Year for 2007 for SpaceX, Tesla, and SolarCity.[227]</li>
 					<li>Inc Magazine Entrepreneur of the Year award for 2007 for his work on Tesla and SpaceX.[228]</li>
